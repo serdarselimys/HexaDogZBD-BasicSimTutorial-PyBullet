@@ -1,0 +1,15 @@
+# HexaDog ZBD - Fusion 360 to URDF to PyBullet tutorial
+# Install with:  pip install -r requirements.txt
+
+# Physics simulation
+pybullet>=3.2.5
+
+# Math / array helpers used by the testbench
+numpy>=1.24
+
+# Xacro -> URDF conversion (used by Xacro2URDF.py)
+# Works standalone outside ROS 2; the script mocks the ament package index.
+xacro>=2.0.0
+
+# Pulled in by xacro, listed explicitly so pip resolves it on bare systems
+lxml>=4.9

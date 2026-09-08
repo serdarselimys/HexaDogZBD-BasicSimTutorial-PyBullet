@@ -1,4 +1,4 @@
-# HexaDog ZBD — Fusion 360 → URDF → PyBullet
+# Fusion 360 → URDF → PyBullet (HexaDog ZBD)
 
 Companion files for the YouTube tutorial on exporting a robot from **Autodesk Fusion 360** and simulating it in **PyBullet**.
 

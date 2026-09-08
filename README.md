@@ -80,8 +80,8 @@ On Fedora: `sudo dnf install python3 python3-pip gcc gcc-c++`
 ## 2. Get the repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/serdarselimys/HexaDogZBD-BasicSimTutorial-PyBullet.git
+cd HexaDogZBD-BasicSimTutorial-PyBullet
 ```
 
 No git? Click the green **Code → Download ZIP** button on GitHub, unzip it, then `cd` into the folder.
